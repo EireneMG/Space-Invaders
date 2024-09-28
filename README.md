@@ -1,3 +1,4 @@
+# Space Invaders 
 A game project using C programming language with applied concepts and functions of C language. It is an interactive game where the players control the ship to defend against and invade aliens.
 
 Game Instructions:
